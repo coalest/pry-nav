@@ -18,6 +18,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
 
   gem.required_ruby_version = '>= 2.1.0'
-  gem.add_runtime_dependency 'pry', '>= 0.9.10', '< 0.15'
+  gem.add_runtime_dependency 'pry', '>= 0.9.10', '< 0.16'
   gem.add_development_dependency 'rake'
 end

@@ -3,5 +3,5 @@ gemspec
 
 gem "test-unit"
 
-gem "pry", "~> 0.14.1"
+gem "pry", "~> 0.15"
 gem "pry-remote"
